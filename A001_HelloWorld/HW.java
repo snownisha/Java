@@ -1,4 +1,4 @@
-package HelloWorld;
+package A001_HelloWorld;
 
 public class HW {
     public static void main (String[]args){
