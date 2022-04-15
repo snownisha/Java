@@ -1,15 +1,16 @@
 package A050_NestedLoops;
 
-public class Nested {
+public class Star {
     public static void main (String args[]){
-        int row=5;
+        int row=3;
         for(int i=0; i<row; i++)
         {
-            for(int j=0; j<=row; j++)
+            for(int j=0; j<=i; j++)
             {
-                System.out.print("# ");
+                System.out.print("* ");
             }
             System.out.println();
         }
     }
 }
+
