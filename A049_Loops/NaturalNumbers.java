@@ -4,15 +4,12 @@ import java.util.Scanner;
 
 public class NaturalNumbers {
     public static void main (String args[]){
-        int n;
-        Scanner Sc = new Scanner(System.in);
+        int i, num = 10, sum = 0;
 
-        System.out.println("Enter the value of n");
-        n= Sc.nextInt();
-        int i=1;
-        while (i<n){
-            System.out.println(i);
-            i++;
+        for(i = 1; i <= num; ++i)
+        {
+            sum = sum + i;
         }
+        System.out.println("Sum of First 10 Natural Numbers is = " + sum);
     }
 }
