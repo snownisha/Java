@@ -1,6 +1,4 @@
-package Loops;
-
-import java.util.Scanner;
+package A049_Loops;
 
 public class OddNumbers {
     public static void main (String args[]){
