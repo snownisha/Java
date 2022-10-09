@@ -1,4 +1,4 @@
-#Labelled loop i
+#Labelled loop in
 package A060_LabelledLoop;
 
 public class LabelledLoop {
