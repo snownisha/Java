@@ -1,4 +1,4 @@
-#Labelled loop in jav
+#Labelled loop in java
 package A060_LabelledLoop;
 
 public class LabelledLoop {
