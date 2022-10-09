@@ -1,4 +1,4 @@
-#Labe
+#Labelled 
 package A060_LabelledLoop;
 
 public class LabelledLoop {
